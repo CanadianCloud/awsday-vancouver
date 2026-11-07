@@ -1,0 +1,17 @@
+{
+  "city": "Vancouver",
+  "year": 2025,
+  "event_date": "2025-10-25",
+  "source_url": "https://awsday.ca/past-events/2025/index.html",
+  "source_repository": "https://github.com/CanadianCloud/awsday.github.io",
+  "source_commit": "e3238b0177c67a8b073750cf0ff72b57609ffbd3",
+  "archived_at": "2026-11-07T21:18:36.401Z",
+  "original_html_sha256": "4b2c49a6d1f86c5a2f83241c2e9acf305b48764e5af20a27eab8fda19165a4a0",
+  "preservation": "Copied original deployed archive and its local resources.",
+  "changes": [
+    "Relocated assets and internal links under the year folder.",
+    "Added historical event notice and closed-registration handling.",
+    "Kept links between Vancouver archive years local.",
+    "Added noindex,follow metadata to historical promotional pages."
+  ]
+}

@@ -24,17 +24,16 @@ To publish confirmed details, replace the corresponding panel and hero copy, and
 
 ## Hosting
 
-GitHub Pages serves `main` from `/`. The working project URL inherits the CanadianCloud organization domain. This repo is independent of the main awsday.ca site.
-
-To enable the planned custom domain:
-
-1. Add a DNS CNAME record: `vancouver.awsday.ca` to `canadiancloud.github.io`.
-2. Set the GitHub Pages custom domain to `vancouver.awsday.ca` (or add a root `CNAME` file with that hostname).
-3. Once GitHub issues the certificate, enforce HTTPS.
-4. Update canonical/social metadata, robots.txt, sitemap.xml and the city links on all three sites to the custom domains.
-
-Do not attach a custom domain before its DNS record is ready; GitHub would redirect visitors to an unresolved hostname.
+GitHub Pages serves `main` from `/`. The custom domain `vancouver.awsday.ca` is set in `CNAME`, with DNS pointing to `canadiancloud.github.io`.
 
 ## Assets
 
 City artwork was generated for this design. Community photo reused from CanadianCloud/awsday.github.io, public/Instagram/ig3.jpg, and captioned as a past Canadian community event. Nunito is licensed under the SIL Open Font License; see assets/OFL.txt.
+
+## Past Vancouver events
+
+The homepage footer links to `past-events/`. Local archive copies are stored at `past-events/2024/`, `past-events/2025/`, and `past-events/2026/`. The 2024 and 2025 copies preserve the original static exports, including linked schedules, speakers, photographs and maps. Redundant nested archives and unused source fonts are excluded; fonts served by each archive are kept in its `_next` resources.
+
+The 2026 export was built from CanadianCloud/awsday.github.io commit `e3238b0177c67a8b073750cf0ff72b57609ffbd3` with Vancouver as the default view and base path `/past-events/2026`. It preserves the original event content, including the Vancouver schedule and interactive Science World map. The old live website was not modified.
+
+Shared `past-events/archive.js` and `archive.css` add a historical notice, keep legacy internal navigation within each archive, and close historical signup controls. Each year has `provenance.json` with source URL, capture date, original HTML hash and event date. Add future years to the archive index without overwriting existing year folders.

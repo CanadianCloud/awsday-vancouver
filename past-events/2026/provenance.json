@@ -1,0 +1,17 @@
+{
+  "city": "Vancouver",
+  "year": 2026,
+  "event_date": "2026-05-01",
+  "source_url": "https://awsday.ca/?city=vancouver",
+  "source_repository": "https://github.com/CanadianCloud/awsday.github.io",
+  "source_commit": "e3238b0177c67a8b073750cf0ff72b57609ffbd3",
+  "archived_at": "2026-11-07T21:18:36.402Z",
+  "original_html_sha256": "dd8b77f8961153293b339621c837b6aaec41e6498921fae6cbb3de491d51e875",
+  "preservation": "Static export rebuilt with the Vancouver view selected by default.",
+  "changes": [
+    "Relocated assets and internal links under the year folder.",
+    "Added historical event notice and closed-registration handling.",
+    "Kept links between Vancouver archive years local.",
+    "Added noindex,follow metadata to historical promotional pages."
+  ]
+}

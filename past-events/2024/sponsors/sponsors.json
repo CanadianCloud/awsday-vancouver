@@ -1,0 +1,87 @@
+[
+  {
+    "name": "AWS",
+    "type": "Main",
+    "alt": "Main Sponsor Video Thumbnail",
+    "imgSrc": "/past-events/2024/sponsors/aws.png",
+    "span": "md:col-span-2 lg:col-span-4",
+    "website": "https://aws.amazon.com/"
+  },
+  {
+    "type": "Gold",
+    "name": "Couchbase",
+    "alt": "Gold Sponsor Video Thumbnail",
+    "imgSrc": "/past-events/2024/sponsors/couchbase.png",
+    "website": "https://www.couchbase.com/"
+  },
+  {
+    "type": "Gold",
+    "name": "Fortinet",
+    "alt": "Gold Sponsor Video Thumbnail",
+    "imgSrc": "/past-events/2024/sponsors/fortinet.webp",
+    "website": "https://www.fortinet.com/"
+  },
+  {
+    "type": "Gold",
+    "name": "Atono",
+    "alt": "Gold Sponsor Video Thumbnail",
+    "imgSrc": "/past-events/2024/sponsors/atono.svg",
+    "website": "https://www.atono.io/"
+  },
+  {
+    "type": "Gold",
+    "name": "Randoli",
+    "alt": "Gold Sponsor Video Thumbnail",
+    "imgSrc": "/past-events/2024/sponsors/randoli.png",
+    "website": "https://www.randoli.io/"
+  },
+  {
+    "type": "Silver",
+    "alt": "Silver Sponsor Video Thumbnail 1",
+    "imgSrc": "/past-events/2024/sponsors/autimo.png",
+    "website": "https://autimo.com/"
+  },
+  {
+    "type": "Silver",
+    "alt": "Future Proof Creatives",
+    "imgSrc": "/past-events/2024/sponsors/futureproof.png",
+    "website": "https://futureproofcreatives.com/"
+  },
+  {
+    "type": "Silver",
+    "alt": "Convergence",
+    "imgSrc": "/past-events/2024/sponsors/convergence.png",
+    "website": "https://cctech.io/"
+  },
+  {
+    "name": "SUSE",
+    "type": "Silver",
+    "alt": "SUSE",
+    "imgSrc": "/past-events/2024/sponsors/suse.png",
+    "website": "https://www.suse.com/"
+  },
+  {
+    "type": "Silver",
+    "alt": "Speedyrails",
+    "imgSrc": "/past-events/2024/sponsors/speedyrails.png",
+    "website": "https://www.speedyrails.com/"
+  },
+  {
+    "type": "Silver",
+    "alt": "Inside View",
+    "imgSrc": "/past-events/2024/sponsors/inside-view.png",
+    "website": "http://www.insideviewglobal.com/"
+  },
+  {
+    "type": "Silver",
+    "alt": "Data Elephant",
+    "imgSrc": "/past-events/2024/sponsors/data-elephant.png",
+    "website": "https://www.dataelephant.com/"
+  },
+  {
+    "type": "Silver",
+    "alt": "Northeastern University",
+    "imgSrc": "/past-events/2024/sponsors/northeastern.svg",
+    "website": "https://www.northeastern.edu/"
+  }
+]

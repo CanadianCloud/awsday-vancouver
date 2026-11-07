@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Gabriel Velazquez",
+    "company": "AWS",
+    "image": "/past-events/2025/speakers/gabriel.png",
+    "type": "keynote",
+    "linkedin": "https://www.linkedin.com/in/gvlz/"
+  },
+  {
+    "name": "Mark Gamble",
+    "company": "Couchbase",
+    "image": "/past-events/2025/speakers/mark.png",
+    "linkedin": "https://www.linkedin.com/in/magamble/"
+  },
+  {
+    "name": "Tobias Dunn-Krahn",
+    "company": "Atono",
+    "image": "/past-events/2025/speakers/tobias.png",
+    "linkedin": "https://www.linkedin.com/in/tobias-dunn-krahn-b8773613/"
+  },
+  {
+    "name": "Amit Bajaj",
+    "company": "CEO ecoVoiceSystems",
+    "image": "/past-events/2025/speakers/amit.png",
+    "linkedin": "https://www.linkedin.com/in/amit-bajaj-sa/"
+  },
+  {
+    "name": "Warren Uniewski",
+    "company": "Autimo",
+    "image": "/past-events/2025/speakers/warren.png",
+    "linkedin": "https://www.linkedin.com/in/warrenu/"
+  },
+  {
+    "name": "Tyler Germer",
+    "company": "Fortinet",
+    "image": "/past-events/2025/speakers/tyler.png",
+    "linkedin": "https://www.linkedin.com/in/tyler-germer-a60964/"
+  },
+
+  {
+    "name": "Rajith Attapattu",
+    "company": "Randoli",
+    "image": "/past-events/2025/speakers/rajith.png",
+    "linkedin": "https://www.linkedin.com/in/rajith-muditha-attapattu/"
+  }
+]
