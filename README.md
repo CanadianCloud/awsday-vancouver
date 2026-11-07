@@ -37,3 +37,7 @@ The homepage footer links to `past-events/`. Local archive copies are stored at 
 The 2026 export was built from CanadianCloud/awsday.github.io commit `e3238b0177c67a8b073750cf0ff72b57609ffbd3` with Vancouver as the default view and base path `/past-events/2026`. It preserves the original event content, including the Vancouver schedule and interactive Science World map. The old live website was not modified.
 
 Shared `past-events/archive.js` and `archive.css` add a historical notice, keep legacy internal navigation within each archive, and close historical signup controls. Each year has `provenance.json` with source URL, capture date, original HTML hash and event date. Add future years to the archive index without overwriting existing year folders.
+
+## Site credits
+
+The footer identifies CPCA as the site funder and HackerRivals as the site administrator, linking to canadiancloud.org and hackerrivals.com. CPCA logo is reused from the original AWS Day website; the HackerRivals logo is from https://hackerrivals.com/assets/images/hackerrivals-logo.png. Both are stored in `assets/`. The header city picker is an inline dropdown with keyboard navigation, Escape and outside-click dismissal.
